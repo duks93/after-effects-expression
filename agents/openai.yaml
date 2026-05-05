@@ -1,0 +1,4 @@
+interface:
+  display_name: "After Effects Expression"
+  short_description: "AE Expression 설계, 디버깅, 적용 안내"
+  default_prompt: "Use $after-effects-expression to create an After Effects expression with setup steps, controls, annotated code, and troubleshooting."
