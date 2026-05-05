@@ -167,7 +167,3 @@ Keep the skill lightweight. Put reusable details in `references/` instead of exp
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
-## Acknowledgment
-
-This README style was inspired by the clear onboarding structure of [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex), adapted for a small single-skill repository.
